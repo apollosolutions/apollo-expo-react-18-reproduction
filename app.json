@@ -4,6 +4,7 @@
     "slug": "apollo-react-18-loading-issue-reproduction",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner": "medelman215",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
